@@ -1,0 +1,24 @@
+.tree-view {
+    text-align: left;
+}
+
+.tree-node.new,
+.tree-item.new {
+    background-color: rgba(97, 207, 50, .5);
+}
+.tree-node.delete,
+.tree-item.delete {
+    background-color: rgba(245, 87, 66, .5);
+}
+
+.btn .edit {
+    background-image: url("../images/icons-edit.svg");
+}
+
+.modal-body label {
+    padding-right: 10px;
+}
+
+.target-element > div {
+	display: inline-block;
+}

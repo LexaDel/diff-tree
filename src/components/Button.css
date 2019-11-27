@@ -1,0 +1,15 @@
+.btn > span {
+    background-repeat: no-repeat;
+    background-size: 12px 12px;
+    width: 12px;
+    height: 12px;
+    background-position: top;
+    display: inline-block;
+}
+
+.btn {
+    background-color: #fff;
+    border: 1px solid #d7d7d7;
+    margin-left: 5px;
+    padding-top: 2px;
+}
